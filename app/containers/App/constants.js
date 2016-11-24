@@ -10,3 +10,5 @@
  */
 
 export const DEFAULT_LOCALE = 'en';
+export const ADD_MESSAGE = 'ADD_MESSAGE';
+export const GET_ALL_MESSAGES = 'GET_ALL_MESSAGES';
